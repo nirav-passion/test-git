@@ -8,4 +8,4 @@
 
     $obj->delete($id);
    // header("location:view.php");
-?>
+?
